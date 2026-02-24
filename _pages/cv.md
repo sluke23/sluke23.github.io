@@ -11,37 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Tsinghua University, 2022
+* B.S. in Beijing Jiaotong University University, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Xiaomi EV, 2022-present
+  * Algorithm Engineer, Autonomous Driving Perception Algorithms Development.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Megvii, 2021.3-2021.9
+  * Automatic 3D bounding box annotation algorithm research for non-motorized vehicles, enhancing annotation accuracy under severe occlusion.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sensetime, 2020.7-2021.1
+  * Developed and iterated calibration and temperature measurement algorithms for Vulcan series products; enhanced multi-modal facial keypoint matching accuracy via post-processing techniques.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Pytorch
+* Cursor
+* C/C++
+* FFmpeg
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +53,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
